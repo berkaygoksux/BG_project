@@ -1,13 +1,38 @@
-# 1306220126 Project
+ Summer in the Backyard - Minimal Sahne
 
-This project uses OpenGL to create a 3D scene representing a childhood memory.
+Bu proje, OpenGL ve GLFW kullanarak basit bir 3D grafik sahnesi oluşturur.  
+Şu anki haliyle sahne, arka bahçeyi temsil eden:
 
-## Build Instructions
-- Install GLFW, GLAD, GLM
-- Compile with CMake or g++
-- Run the executable and enjoy!
+  Siyah bir zemin (plane)
+  Ortada duran basit bir dikdörtgen yapı (kapı/çerçeve)
+  Mavi arka plan (gökyüzü)
 
-## Scene
-- Cube: Toy car
-- Sphere: Ball
-- Plane: Ground
+
+
+ Mevcut Özellikler
+
+Basit zemin (plane)  
+Dikdörtgen form (kapı veya çerçeve izlenimi)  
+Mavi arka plan  
+3D perspektif ve temel OpenGL ayarları
+
+ Kullanılan Teknolojiler
+
+- C++  
+- OpenGL  
+- GLFW  
+- GLAD  
+- GLM
+
+ Kurulum ve Çalıştırma
+
+1. Projeyi klonla:
+   ```bash
+   git clone https://github.com/berkaygoksux/BG_project.git
+   cd BG_project
+
+mkdir build
+cd build
+cmake ..
+cmake --build .
+./1306220126
