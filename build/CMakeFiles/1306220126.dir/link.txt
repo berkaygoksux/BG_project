@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/1306220126.dir/main.cpp.o CMakeFiles/1306220126.dir/draw_functions.cpp.o CMakeFiles/1306220126.dir/loadShader.cpp.o -o 1306220126   -L/usr/local/opt/glfw/lib  -Wl,-rpath,/usr/local/opt/glfw/lib libglad.a -lglfw -framework OpenGL

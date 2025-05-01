@@ -1,0 +1,4 @@
+/Users/berkaygoksu/1306220126_with_draw/build/CMakeFiles/glad.dir
+/Users/berkaygoksu/1306220126_with_draw/build/CMakeFiles/1306220126.dir
+/Users/berkaygoksu/1306220126_with_draw/build/CMakeFiles/edit_cache.dir
+/Users/berkaygoksu/1306220126_with_draw/build/CMakeFiles/rebuild_cache.dir
