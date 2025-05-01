@@ -1,4 +1,6 @@
- Summer in the Backyard - Minimal Sahne
+Proje Raporu: Rapor.pdf
+
+Summer in the Backyard - Minimal Sahne
 
 Bu proje, OpenGL ve GLFW kullanarak basit bir 3D grafik sahnesi oluşturur.  
 Şu anki haliyle sahne, arka bahçeyi temsil eden:
